@@ -102,7 +102,7 @@ function themo_start_scrollup() {
 		animationSpeed: 200,
 		animation: 'fade',
 		scrollSpeed: 500,
-		scrollImg: { active: true, type: 'background', src: '../../images/top.png' }
+		scrollImg: { active: true, type: 'background', src: '././images/top.png' }
 	});
 }
 
